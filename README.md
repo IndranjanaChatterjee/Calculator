@@ -1,5 +1,5 @@
 # Calculator
-It is a simple Calculator using **html**,**css** and **js**.It performs the simple calculations and also deletes indiviually or entirely the numbers entered.
+It is a simple Calculator using **html**,**css** and **js**.It performs the simple calculations and also deletes indiviually or entirely the numbers entered.Type it from the keyboard or from the keys provided in the calculator as wished.
 
 ## Used:
 1. HTML
